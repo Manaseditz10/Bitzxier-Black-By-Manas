@@ -1,0 +1,18 @@
+
+{
+    "TOKEN": "MTQyNjI0ODk5NDg1NzY4MDk0Ng.GQ1uWn.3puHEZumL2zsrWLe7K-lCG4-kg1eFYXl2mpJOU",
+    "PREFIX": "&",
+    "MONGO_DB": "mongodb+srv://BITZXIER:GYllwfJBgRj1HSDJ@bitzxier.wovjk.mongodb.net/?retryWrites=true&w=majority&appName=BITZXIER",
+    "developer": [216020418216198146],
+    "Beast" : [216020418216198146],
+    "cooldown": true,
+    "owner": [216020418216198146],
+    "mainmode": [216020418216198146],
+    "premium" : [216020418216198146],
+    "admin": [216020418216198146],
+    "np": [216020418216198146],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1426248994857680946&scope=bot+applications.commands&permissions=8",
+    "support" : "https://discord.gg/VXWyW8xx3g",
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```",
+    "extraowner": [216020418216198146]
+}
