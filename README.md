@@ -94,7 +94,6 @@ Need help or have questions?
 
 ## 🤝 Contributors
 - aiosqlite.db     [ @Manaseditz10 ]
-- ansh.db          [ @titanxdevz ]
 - mr_ambanigaming  [ @ambanigaming0 ]
 - 9vxk             [ @ozumaly ]
 
